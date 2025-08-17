@@ -1,0 +1,560 @@
+{
+  "toTop": "Înapoi sus!",
+  "whatsappText": "Discută cu noi!",
+  "loading": "Se încarcă...",
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre noi",
+    "services": "Excursiile noastre",
+    "contact": "Contactează-ne",
+    "brand": "Fares Friends Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Bine ai venit la Fares Friends Tours",
+      "subtitle": "Partenerul tău de încredere pentru experiențe de călătorie de neuitat",
+      "explore": "Află mai multe",
+      "book": "Contactează-ne"
+    },
+    "destinations": {
+      "sectionTitle": "Destinații populare",
+      "sectionSubtitle": "Explorează cele mai iubite destinații din lume",
+      "viewDetails": "Vezi detalii"
+    },
+    "features": {
+      "sectionTitle": "De ce să alegi Fares Friends",
+      "sectionSubtitle": "Oferim experiențe de călătorie excepționale și servicii de neegalat",
+      "safe": {
+        "title": "Siguranță & Protecție",
+        "desc": "Siguranța ta este prioritatea noastră, cu ghizi certificați și rezervări sigure."
+      },
+      "price": {
+        "title": "Cele mai bune prețuri",
+        "desc": "Tarife competitive, fără costuri ascunse și opțiuni flexibile de plată."
+      },
+      "guide": {
+        "title": "Ghizi profesioniști",
+        "desc": "Ghizi experimentați care cunosc în detaliu destinațiile."
+      },
+      "custom": {
+        "title": "Tururi personalizate",
+        "desc": "Experiențe adaptate preferințelor și programului tău."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Ce spun clienții noștri",
+      "sectionSubtitle": "Experiențe reale de la călători fericiți"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Despre Fares Friends",
+      "subtitle": "Oferim călătorii de neuitat din 2008"
+    },
+    "story": {
+      "title": "Povestea noastră",
+      "p1": "Fares Friends Tours este o companie turistică egipteană licențiată, aprobată de Ministerul Turismului cu licență Clasa A (#1696), fondată pe 20 septembrie 2008. Compania are o vastă experiență în organizarea de excursii interne și internaționale, în special programe Hajj și Umrah, oferind servicii complete care includ vize, zboruri, cazare și supervizare completă de către o echipă de specialiști.",
+      "p2": "Fares Friends Tours este un nume de încredere, cunoscut pentru profesionalism și seriozitate în întreaga Egipt.",
+      "stats": {
+        "travelers": "Călători fericiți",
+        "destinations": "Destinații turistice",
+        "experience": "Ani de experiență"
+      }
+    },
+    "values": {
+      "title": "Valorile noastre",
+      "subtitle": "Principiile care ne ghidează activitatea",
+      "trust": {
+        "title": "Încredere & Credibilitate",
+        "desc": "Construim relații pe termen lung prin comunicare sinceră și servicii de încredere. Încrederea ta este cea mai valoroasă resursă a noastră."
+      },
+      "sustainability": {
+        "title": "Sustenabilitate",
+        "desc": "Angajament față de un turism responsabil care respectă comunitățile locale și protejează frumusețea naturală."
+      },
+      "excellence": {
+        "title": "Excelență",
+        "desc": "Fiecare călătorie este concepută pentru a oferi experiențe remarcabile și amintiri de durată."
+      }
+    },
+    "achievements": {
+      "title": "Realizările noastre",
+      "subtitle": "Premii și repere care ne motivează",
+      "awards": {
+        "t1": "Cel mai bun organizator de tururi 2023",
+        "d1": "Premiat pentru excelență în turism",
+        "t2": "Rating 4.9/5",
+        "d2": "Rating mediu de satisfacție a clienților",
+        "t3": "Certificat pentru Turism Verde",
+        "d3": "Angajament pentru practici ecologice",
+        "t4": "5000+ Clienți fericiți",
+        "d4": "De încredere pentru călători din întreaga lume"
+      }
+    }
+  },
+  "services": {
+    "heroTitle": "Fares Friends Tours",
+    "heroSubtitle": "Creăm călătorii de neuitat – din Egipt către lume și dincolo.",
+    "mainTitle": "Excursiile & Aventurile Noastre",
+    "mainSubtitle": "Descoperă lumea alături de Fares Friends – partenerul tău de încredere în călătorii",
+    "whyTitle": "De ce să călătorești cu Fares Friends?",
+    "whySubtitle": "Oferim excelență, grijă și amintiri de durată",
+    "why": [
+      {
+        "title": "Experiență de Încredere",
+        "desc": "Ani de experiență în turism religios, intern și internațional."
+      },
+      {
+        "title": "Siguranță & Confort",
+        "desc": "Standardele de siguranță de top și confort excepțional la fiecare călătorie."
+      },
+      {
+        "title": "Servicii Personalizate",
+        "desc": "Pachete personalizabile și suport dedicat pentru fiecare călător."
+      },
+      {
+        "title": "Rețea Globală",
+        "desc": "Parteneriate solide și resurse globale pentru o călătorie fără probleme."
+      }
+    ],
+    "bookingTitle": "Cum rezervi",
+    "bookingSubtitle": "Începe-ți călătoria în pași simpli",
+    "steps": [
+      {
+        "title": "Alege un Serviciu",
+        "desc": "Alege din pachetele turistice, Hajj sau Umrah."
+      },
+      {
+        "title": "Contactează-ne",
+        "desc": "Sună-ne, trimite-ne un e-mail sau folosește website-ul."
+      },
+      {
+        "title": "Planifică & Personalizează",
+        "desc": "Îți proiectăm și confirmăm detaliile călătoriei pentru liniștea ta."
+      },
+      {
+        "title": "Călătorește cu Încredere",
+        "desc": "Bucură-te de o călătorie lină și de neuitat cu Fares Friends Tours!"
+      }
+    ],
+    "programsList": [
+      {
+        "title": "Orange Island",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 2 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "16:00",
+        "notes": "Taxă suplimentară: 5 Euro pentru parcul natural",
+        "price": "25",
+        "included": [
+          "2 ore pe insula Orange",
+          "2 opriri pentru snorkeling",
+          "Sporturi nautice: banana & canapea gonflabilă",
+          "Prânz și băuturi pe barcă",
+          "Echipament de snorkeling",
+          "Preluare și returnare de la hotel"
+        ],
+        "image": "assets/images/programs images/Orange Island.jpeg"
+      },
+      {
+        "title": "Paradise Island",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "16:00",
+        "notes": "Taxă suplimentară: 5 Euro pentru parcul natural",
+        "price": "50",
+        "included": [
+          "3 ore pe insula Paradise 🏝️",
+          "1 oprire pentru snorkeling 🤿",
+          "Echipament de snorkeling",
+          "Prânz pe insulă – bufet deschis"
+        ],
+        "image": "assets/images/programs images/Paradise Island.jpeg"
+      },
+      {
+        "title": "Hula‑Hula Island",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 8 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "16:00",
+        "notes": "Taxă suplimentară: 5 Euro pentru parcul natural",
+        "price": "25",
+        "included": [
+          "Două ore pe insula Hula-Hula",
+          "2 opriri pentru snorkeling",
+          "Sporturi nautice: banana & canapea gonflabilă",
+          "Prânz și băuturi pe barcă",
+          "Echipament de snorkeling",
+          "Preluare și returnare de la hotel"
+        ],
+        "image": "assets/images/programs images/Hula‑Hula Island.webp"
+      },
+      {
+        "title": "Eden Island",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 2 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "16:00",
+        "notes": "Taxă suplimentară: 5 Euro pentru parcul natural",
+        "price": "70",
+        "included": [
+          "2 ore pe insula Eden",
+          "2 opriri pentru snorkeling",
+          "Sporturi nautice: banana & canapea gonflabilă",
+          "Prânz și băuturi pe barcă",
+          "Echipament de snorkeling",
+          "Preluare și returnare de la hotel"
+        ],
+        "image": "assets/images/programs images/Eden Island.jpeg"
+      },
+      {
+        "title": "Insula Magawish",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "16:00",
+        "notes": "Taxă suplimentară: 5 Euro pentru parcul natural",
+        "price": "25",
+        "included": [
+          "2 opriri pentru snorkeling",
+          "2 ore pe insula Magawish",
+          "Echipament de snorkeling",
+          "Prânz pe barcă 🛥️"
+        ],
+        "image": "assets/images/programs images/Magawish island.jpeg"
+      },
+      {
+        "title": "Casa Delfinilor",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 2 ore",
+        "hotelPickup": "8:00",
+        "hotelReturn": "15:00",
+        "price": "25",
+        "included": [
+          "2 opriri pentru snorkeling",
+          "Observarea delfinilor",
+          "Sporturi acvatice: banana & sofa boat",
+          "Prânz și băuturi",
+          "Echipament de snorkeling",
+          "Preluare și retur la hotel"
+        ],
+        "image": "assets/images/programs images/Dolphine House.webp"
+      },
+      {
+        "title": "Spectacol cu Delfini & Lei de Mare",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 2 ore",
+        "hotelPickup": "9:30",
+        "hotelReturn": "12:00",
+        "price": "20",
+        "included": [
+          "Spectacol de 60 de minute cu delfini, lei de mare & morse",
+          "Preluare și retur la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1495368008737-9d436e094dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Tur VIP cu Delfini și Snorkeling",
+        "availability": "În fiecare zi",
+        "duration": "variază",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "60",
+        "included": [
+          "Vizită în grup mic la delfini în habitat natural",
+          "Echipament de snorkeling & veste de salvare",
+          "Transfer",
+          "Mic dejun",
+          "Înot cu delfinii",
+          "Prânz la grătar",
+          "Gustări & băuturi",
+          "Transfer de la hotel",
+          "Adu un prosop!"
+        ],
+        "image": "https://images.unsplash.com/photo-1504317083653-6843c8aa144f?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Tur Privat în Hurghada",
+        "availability": "În fiecare zi",
+        "duration": "variază",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "20",
+        "notes": "Prețul este pentru un grup",
+        "included": [
+          "Transport privat.",
+          "Ghid turistic profesionist.",
+          "Intrare gratuită la port pentru a vedea cele mai frumoase iahturi și bărci.",
+          "Intrare gratuită la piața de pește cu pește proaspăt din Marea Roșie.",
+          "Intrare gratuită la biserica considerată cea mai veche și mai mare din Hurghada.",
+          "Intrare gratuită la piața de fructe și legume."
+        ],
+        "image": "assets/images/programs images/Private Hurghada City Tour.jpeg"
+      },
+      {
+        "title": "Barcă Rapidă Privată",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 4 ore",
+        "hotelPickup": "", 
+        "hotelReturn": "",
+        "price": "120",
+        "notes": "Prețul este pentru un grup",
+        "included": [
+          "Vizită pe Insula Albă",
+          "Snorkeling",
+          "Opțional: Casa Delfinilor, Orange Island, Paradise Island sau Eden Island (cost suplimentar)",
+          "Echipament de snorkeling, fructe & băuturi",
+          "Transfer privat cu preluare/retur la hotel"
+        ],
+        "image": "assets/images/programs images/Private Speed Boat.jpeg"
+      },
+      {
+        "title": "Gura Golfului Abu Dabbab, Marsa Alam",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 12 ore",
+        "hotelPickup": "05:30",
+        "hotelReturn": "17:30",
+        "price": "70",
+        "included": [
+          "Preluare și returnare de la orice locație din Hurghada",
+          "Transport cu mașină privată cu aer condiționat",
+          "Taxe de intrare la plajă și toate taxele incluse",
+          "Prânz și băuturi",
+          "Ghid pentru snorkeling",
+          "Gustări, cola și apă"
+        ],
+        "image": "assets/images/programs images/Abu Dabbab Bay Marsa Alam.jpeg"
+      },
+      {
+        "title": "Excursie de o zi la Luxor și Nil",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 18 ore",
+        "hotelPickup": "04:00",
+        "hotelReturn": "22:00",
+        "price": "70",
+        "included": [
+          "Valea Regilor",
+          "Templul Karnak & Aleea Sfinxurilor",
+          "Orașul Morților",
+          "Templul lui Hatshepsut",
+          "Colosii din Memnon",
+          "Fabrici de alabastru și ulei",
+          "Prânz",
+          "Ghid egiptolog (multilingv)",
+          "Preluare și returnare cu autobuzul"
+        ],
+        "image": "https://images.unsplash.com/photo-1705680757279-98fa1fe46853?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Cairo & Piramidele",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 22 ore",
+        "hotelPickup": "01:00",
+        "hotelReturn": "23:00",
+        "price": "70",
+        "included": [
+          "Piramidele din Giza",
+          "Muzeul Egiptean",
+          "Orașul Morților",
+          "Marea Sfinx",
+          "Prânz",
+          "Institutul de Papirus și Fabrica de Ulei",
+          "Croazieră pe Nil (opțional +10 €)",
+          "Ghid egiptolog: engleză, franceză, germană, rusă, poloneză",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Safari Super în Deșert cu BBQ & Spectacol",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 6 ore",
+        "hotelPickup": "12:00",
+        "hotelReturn": "20:00",
+        "price": "30",
+        "notes": "Copiii sub 16 ani nu au voie să conducă vehicule. Clienții nu pot utiliza ATV-urile sau buggy-urile și trebuie să urmeze instrucțiunile personalului.",
+        "included": [
+          "Preluare de la hotel și deplasare la centrul ATV",
+          "Quad în deșert – 45 min",
+          "Buggy – 20 min",
+          "Jeep 25 km până la cortul beduinilor",
+          "Ajungere la cort, ceai beduin și plimbare cu cămila",
+          "Cină (orez indian - pui la grătar - chiftele - 3 tipuri de salate - legume - cola - fructe)",
+          "Spectacol oriental (dansatoare de buric, tanoura, folclor)",
+          "Întoarcere la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1494674557684-c26be0f88950?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Mini Safari de Deșert & Aventură cu Quad",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "11:00 sau 14:00",
+        "hotelReturn": "13:00 sau 16:00",
+        "price": "20",
+        "included": [
+          "Preluare de la hotel și deplasare la centrul ATV",
+          "Quad în deșert – 30 min",
+          "Buggy – 15 min",
+          "Jeep 25 km până la cortul beduinilor",
+          "Ajungere la cort, ceai beduin și plimbare cu cămila",
+          "Întoarcere la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1575677155757-b5eb75df3a4e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Tur cu calul pe plajă și în deșert",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "15:00",
+        "hotelReturn": "19:00",
+        "price": "25",
+        "included": [
+          "1 oră călărie pe plajă și în deșert",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1650433943275-55097457ebeb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Zbor cu parasuta",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "11:00 sau 14:00",
+        "hotelReturn": "13:00 sau 16:00",
+        "price": "25",
+        "included": [
+          "Zbor cu parasuta (5–7 minute la 50 m înălțime)",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "assets/images/programs images/Parasailing flight.jpg"
+      },
+      {
+        "title": "Semi-submarin & snorkeling",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "08:00, 10:00 sau 14:00",
+        "hotelReturn": "11:30, 13:30 sau 17:30",
+        "price": "15",
+        "included": [
+          "1 oră în semi-submarin cu ferestre panoramice",
+          "30–40 minute snorkeling în Marea Roșie",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1664922114319-4700c0ef74b1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Descoperă scufundările & snorkelingul",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 8 ore",
+        "hotelPickup": "08:00",
+        "hotelReturn": "17:00",
+        "price": "40",
+        "included": [
+          "Excursie cu barca de o zi întreagă",
+          "Două scufundări (15–20 minute fiecare)",
+          "Oprire pentru snorkeling",
+          "Echipament de scufundare și snorkeling",
+          "Prânz și băuturi",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1727095388910-e09f14913505?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Vizită la Acvariul Grand Hurghada",
+        "availability": "În fiecare zi",
+        "duration": "aprox. 3 ore",
+        "hotelPickup": "10:00",
+        "hotelReturn": "13:00",
+        "price": "35",
+        "included": [
+          "Peste 1.200 de animale marine în 22 de galerii",
+          "Acvariu de apă dulce, grădină zoologică & tunel subacvatic",
+          "Preluare și returnare la hotel"
+        ],
+        "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
+      }      
+    ],
+    "InternalProgramsTitles": {
+      "highlights": "Bari buti",
+      "moreItems": "aver butya",
+      "contactNow": "Dik te kontaktesh akana",
+      "details": "Podrobnosti",
+      "pricingInfo": "Informacia pala price",
+      "adults": "Manusha baro",
+      "perPerson": "Per jekh manuš",
+      "children": "Čhavore (6-11 bersh)",
+      "infants": "Nevi čhavore (0–5 bersh)",
+      "free": "Mukav te beshi",
+      "noCharge": "Nai pago",
+      "hotelPickup": "Uvel ando hotel",
+      "hotelReturn": "Avaripe ando hotel",
+      "included": "So si andral"
+    }
+  },
+  "contact": {
+  "hero": {
+    "title": "Ia legătura cu noi",
+    "subtitle": "Suntem aici să te ajutăm să planifici aventura perfectă"
+  },
+  "info": {
+    "phone": {
+      "title": "Telefon",
+      "label": "Disponibil 24/7"
+    },
+    "email": {
+      "title": "Email",
+      "label": "Răspuns în 2 ore"
+    },
+    "office": {
+      "title": "Birou",
+      "value": "151, Marina Street, Hurghada, Egipt",
+      "label": "Vizitează-ne oricând"
+    }
+  },
+  "map": {
+    "title": "Găsește biroul nostru"
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "subtitle": "Răspunsuri rapide la întrebări comune",
+    "items": [
+      {
+        "question": "Cum rezerv un tur?",
+        "answer": "Poți rezerva un tur prin site-ul nostru, telefonic sau trimițând un email. Te vom ajuta să alegi turul perfect pentru tine."
+      },
+      {
+        "question": "Ce este inclus în prețul turului?",
+        "answer": "Prețul turului include transport, cazare, mese conform specificațiilor, ghizi profesioniști și toate activitățile menționate în descriere."
+      },
+      {
+        "question": "Pot personaliza un tur?",
+        "answer": "Absolut! Suntem specializați în tururi personalizate, adaptate preferințelor tale, dimensiunii grupului și datelor de călătorie. Contactează-ne pentru detalii."
+      },
+      {
+        "question": "Care este politica de anulare?",
+        "answer": "Oferim politici flexibile de anulare. Majoritatea tururilor pot fi anulate cu până la 7 zile înainte de plecare pentru o rambursare completă. Contactează-ne pentru detalii specifice."
+      }
+    ]
+  }
+  },
+  "footer": {
+    "quick_links": "Linkuri rapide",
+    "home": "Acasă",
+    "about": "Despre noi",
+    "services": "Excursiile noastre",
+    "contact": "Contact",
+    "contact_title": "Informații de contact",
+    "follow_us": "Urmărește-ne",
+    "about_company": "Fares Friends Tours este o companie de turism licențiată în Egipt de către Ministerul Turismului, clasa A, licența nr. 1696, înființată pe 20 septembrie 2008. Compania are o vastă experiență în organizarea de excursii interne și internaționale, în special programe de Hajj și Umrah, oferind servicii complete: vize, zboruri, cazare și supraveghere de către profesioniști.",
+    "address": "151, Marina Street, Hurghada, Egipt",
+    "rights": "Fares Friends Tours. Toate drepturile rezervate."
+  },
+  "notFound": {
+    "emoji": "🌍",
+    "title": "404",
+    "message": "Oops! Pagina nu a fost găsită",
+    "description": "Pagina pe care o cauți nu există sau a fost mutată.<br>Hai să explorăm destinații minunate!",
+    "button": "Înapoi la acasă"
+  }
+}

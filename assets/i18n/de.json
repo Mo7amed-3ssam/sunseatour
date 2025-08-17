@@ -1,0 +1,560 @@
+{
+  "toTop": "Zurück nach oben!",
+  "whatsappText": "Chatten Sie mit uns!",
+  "loading": "Lädt...",
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Unsere Ausflüge",
+    "contact": "Kontakt",
+    "brand": "Fares Friends Tours"
+  },
+  "home": {
+    "hero": {
+      "title": "Willkommen bei Fares Friends Tours",
+      "subtitle": "Ihr vertrauenswürdiger Partner für unvergessliche Reiseerlebnisse",
+      "explore": "Mehr erfahren",
+      "book": "Kontaktieren Sie uns"
+    },
+    "destinations": {
+      "sectionTitle": "Beliebte Reiseziele",
+      "sectionSubtitle": "Entdecken Sie die beliebtesten Reiseziele weltweit",
+      "viewDetails": "Details ansehen"
+    },
+    "features": {
+      "sectionTitle": "Warum Fares Friends wählen",
+      "sectionSubtitle": "Wir bieten außergewöhnliche Reiseerlebnisse und erstklassigen Service",
+      "safe": {
+        "title": "Sicher & Geschützt",
+        "desc": "Ihre Sicherheit steht bei uns an erster Stelle – mit zertifizierten Reiseleitern und sicheren Buchungen."
+      },
+      "price": {
+        "title": "Beste Preise",
+        "desc": "Wettbewerbsfähige Preise ohne versteckte Gebühren und flexible Zahlungsoptionen."
+      },
+      "guide": {
+        "title": "Professionelle Guides",
+        "desc": "Erfahrene Reiseleiter mit umfangreichen Ortskenntnissen."
+      },
+      "custom": {
+        "title": "Individuelle Touren",
+        "desc": "Maßgeschneiderte Erlebnisse nach Ihren Wünschen und Zeitplänen."
+      }
+    },
+    "testimonials": {
+      "sectionTitle": "Was unsere Kunden sagen",
+      "sectionSubtitle": "Echte Erfahrungen von glücklichen Reisenden"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Über Fares Friends",
+      "subtitle": "Unvergessliche Reisen seit 2008"
+    },
+    "story": {
+      "title": "Unsere Geschichte",
+      "p1": "Fares Friends Tours ist ein lizenziertes ägyptisches Tourismusunternehmen, genehmigt vom Tourismusministerium mit einer Klasse-A-Lizenz (#1696), gegründet am 20. September 2008. Das Unternehmen verfügt über umfangreiche Erfahrung in der Organisation von Inlands- und Auslandsreisen, insbesondere von Hajj- und Umrah-Programmen, und bietet vollständige Dienstleistungen einschließlich Visa, Flügen, Unterkünften und vollständiger Betreuung durch ein spezialisiertes Team.",
+      "p2": "Fares Friends Tours ist ein vertrauenswürdiger Name, bekannt für Professionalität und Zuverlässigkeit in ganz Ägypten.",
+      "stats": {
+        "travelers": "Zufriedene Reisende",
+        "destinations": "Reiseziele",
+        "experience": "Jahre Erfahrung"
+      }
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "subtitle": "Leitprinzipien unserer Arbeit",
+      "trust": {
+        "title": "Vertrauen & Glaubwürdigkeit",
+        "desc": "Wir bauen langfristige Beziehungen durch ehrliche Kommunikation und zuverlässigen Service auf. Ihr Vertrauen ist unser wertvollstes Gut."
+      },
+      "sustainability": {
+        "title": "Nachhaltigkeit",
+        "desc": "Engagiert für verantwortungsvollen Tourismus, der lokale Gemeinschaften respektiert und natürliche Schönheit schützt."
+      },
+      "excellence": {
+        "title": "Exzellenz",
+        "desc": "Jede Reise ist darauf ausgelegt, außergewöhnliche Erlebnisse und bleibende Erinnerungen zu schaffen."
+      }
+    },
+    "achievements": {
+      "title": "Unsere Erfolge",
+      "subtitle": "Auszeichnungen und Meilensteine, die uns motivieren",
+      "awards": {
+        "t1": "Bester Reiseveranstalter 2023",
+        "d1": "Ausgezeichnet für touristische Exzellenz",
+        "t2": "4,9/5 Bewertung",
+        "d2": "Durchschnittliche Kundenzufriedenheit",
+        "t3": "Zertifizierter Öko-Tourismus",
+        "d3": "Engagement für umweltfreundliche Praktiken",
+        "t4": "5000+ Zufriedene Kunden",
+        "d4": "Vertrauenswürdig bei Reisenden weltweit"
+      }
+    }
+  },
+  "services": {
+    "heroTitle": "Fares Friends Tours",
+    "heroSubtitle": "Unvergessliche Reisen gestalten – von Ägypten in die Welt und darüber hinaus.",
+    "mainTitle": "Unsere Ausflüge & Abenteuer",
+    "mainSubtitle": "Entdecken Sie die Welt mit Fares Friends – Ihr vertrauenswürdiger Reisepartner",
+    "whyTitle": "Warum mit Fares Friends reisen?",
+    "whySubtitle": "Wir bieten Exzellenz, Fürsorge und bleibende Erinnerungen",
+    "why": [
+      {
+        "title": "Vertrauenswürdige Expertise",
+        "desc": "Jahrelange Erfahrung im religiösen, nationalen und internationalen Tourismus."
+      },
+      {
+        "title": "Sicherheit & Komfort",
+        "desc": "Höchste Sicherheitsstandards und außergewöhnlicher Komfort bei jeder Reise."
+      },
+      {
+        "title": "Individueller Service",
+        "desc": "Anpassbare Pakete und engagierter Support für jeden Reisenden."
+      },
+      {
+        "title": "Globales Netzwerk",
+        "desc": "Starke Partnerschaften und globale Ressourcen für reibungsloses Reisen."
+      }
+    ],
+    "bookingTitle": "So buchen Sie",
+    "bookingSubtitle": "Beginnen Sie Ihre Reise in einfachen Schritten",
+    "steps": [
+      {
+        "title": "Wählen Sie einen Service",
+        "desc": "Wählen Sie aus Tourismus-, Hajj- oder Umrah-Paketen."
+      },
+      {
+        "title": "Kontaktieren Sie uns",
+        "desc": "Kontaktieren Sie uns per Telefon, E-Mail oder über die Website."
+      },
+      {
+        "title": "Planen & Anpassen",
+        "desc": "Wir gestalten und bestätigen Ihre Reisedetails für Ihre Sicherheit."
+      },
+      {
+        "title": "Reisen Sie mit Vertrauen",
+        "desc": "Genießen Sie eine reibungslose und unvergessliche Reise mit Fares Friends Tours!"
+      }
+    ],
+    "programsList": [
+      {
+        "title": "Orange Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "2 Stunden auf der Orange Island",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Orange Island.jpeg"
+      },
+      {
+        "title": "Paradise Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "50",
+        "included": [
+          "3 Stunden auf Paradise Island 🏝️",
+          "1 Schnorchelstopp 🤿",
+          "Schnorchelausrüstung",
+          "Mittagessen auf der Insel – Offenes Buffet"
+        ],
+        "image": "assets/images/programs images/Paradise Island.jpeg"
+      },
+      {
+        "title": "Hula‑Hula Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 8 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "Zwei Stunden auf der Hula-Hula-Insel",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Hula‑Hula Island.webp"
+      },
+      {
+        "title": "Eden Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "70",
+        "included": [
+          "2 Stunden auf Eden Island",
+          "2 Schnorchelstopps",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen & Getränke auf dem Boot",
+          "Schnorchelausrüstung",
+          "Hotelabholung und Rücktransfer"
+        ],
+        "image": "assets/images/programs images/Eden Island.jpeg"
+      },
+      {
+        "title": "Magawish Island",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "16:00 Uhr",
+        "notes": "Zusätzliche Gebühr: 5 Euro für den Naturpark",
+        "price": "25",
+        "included": [
+          "2 Schnorchelstopps",
+          "2 Stunden auf Magawish Island",
+          "Schnorchelausrüstung",
+          "Mittagessen auf dem Boot 🛥️"
+        ],
+        "image": "assets/images/programs images/Magawish island.jpeg"
+      },
+      {
+        "title": "Delfinhaus",
+        "availability": "Täglich",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "8:00 Uhr",
+        "hotelReturn": "15:00 Uhr",
+        "price": "25",
+        "included": [
+          "2 Schnorchelstopps",
+          "Beobachtung von Delfinen",
+          "Wassersport: Bananen- & Sofaboot",
+          "Mittagessen und Getränke",
+          "Schnorchelausrüstung",
+          "Abholung und Rückfahrt vom Hotel"
+        ],
+        "image": "assets/images/programs images/Dolphine House.webp"
+      },
+      {
+        "title": "Delfin- & Seelöwenshow",
+        "availability": "Täglich",
+        "duration": "ca. 2 Stunden",
+        "hotelPickup": "9:30 Uhr",
+        "hotelReturn": "12:00 Uhr",
+        "price": "20",
+        "included": [
+          "60-minütige Show mit Delfinen, Seelöwen & Walrossen",
+          "Abholung und Rückfahrt vom Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1495368008737-9d436e094dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "VIP-Delfintour mit Schnorcheln",
+        "availability": "Täglich",
+        "duration": "variabel",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "60",
+        "included": [
+          "Kleine Gruppe besucht Delfine im natürlichen Lebensraum",
+          "Schnorchelausrüstung & Schwimmwesten",
+          "Transfer",
+          "Frühstück",
+          "Schwimmen mit Delfinen",
+          "Grillmittagessen",
+          "Snacks & Getränke",
+          "Hoteltransfer",
+          "Handtuch mitbringen!"
+        ],
+        "image": "https://images.unsplash.com/photo-1504317083653-6843c8aa144f?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Private Hurghada-Stadttour",
+        "availability": "Täglich",
+        "duration": "variabel",
+        "hotelPickup": "",
+        "hotelReturn": "",
+        "price": "20",
+        "notes": "Der Preis gilt für eine Gruppe",
+        "included": [
+          "Privater Transport.",
+          "Professioneller Reiseleiter.",
+          "Kostenloser Eintritt zur Marina, um die schönsten Yachten und Boote zu sehen.",
+          "Kostenloser Eintritt zum Fischmarkt mit frischem Fisch aus dem Roten Meer.",
+          "Kostenloser Eintritt zur Kirche, der ältesten und größten Kirche in Hurghada.",
+          "Kostenloser Eintritt zum Obst- und Gemüsemarkt."
+        ],
+        "image": "assets/images/programs images/Private Hurghada City Tour.jpeg"
+      },
+      {
+        "title": "Privates Schnellboot",
+        "availability": "Täglich",
+        "duration": "ca. 4 Stunden",
+        "hotelPickup": "", 
+        "hotelReturn": "",
+        "price": "120",
+        "notes": "Der Preis gilt für eine Gruppe",
+        "included": [
+          "Besuch der White Island",
+          "Schnorcheln",
+          "Optional: Delfinhaus, Orange Island, Paradise Island oder Eden Island (gegen Aufpreis)",
+          "Schnorchelausrüstung, Obst & Getränke",
+          "Privater Transfer mit Hotelabholung/-rückfahrt"
+        ],
+        "image": "assets/images/programs images/Private Speed Boat.jpeg"
+      },
+      {
+        "title": "Abu Dabbab Bucht Marsa Alam",
+        "availability": "Täglich",
+        "duration": "ca. 12 Stunden",
+        "hotelPickup": "05:30 Uhr",
+        "hotelReturn": "17:30 Uhr",
+        "price": "70",
+        "included": [
+          "Abholung und Rücktransfer im gesamten Hurghada",
+          "Transport mit privatem klimatisiertem Auto",
+          "Eintrittsgebühren für den Strand sowie alle Steuern und Abgaben",
+          "Mittagessen und Getränke",
+          "Schnorchelguide",
+          "Snacks, Cola und Wasser"
+        ],
+        "image": "assets/images/programs images/Abu Dabbab Bay Marsa Alam.jpeg"
+      },
+      {
+        "title": "Luxor Ganztägige Nil-Exkursion",
+        "availability": "Täglich",
+        "duration": "ca. 18 Stunden",
+        "hotelPickup": "4:00 Uhr",
+        "hotelReturn": "22:00 Uhr",
+        "price": "70",
+        "included": [
+          "Tal der Könige",
+          "Tempel von Karnak & Sphinxe-Allee",
+          "Totenstadt",
+          "Tempel der Hatschepsut",
+          "Memnon-Kolosse",
+          "Alabaster- und Ölmanufakturen",
+          "Mittagessen",
+          "Ägyptologe (mehrsprachig)",
+          "Busabholung und Rückfahrt vom Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1705680757279-98fa1fe46853?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Kairo & Pyramiden",
+        "availability": "Täglich",
+        "duration": "ca. 22 Stunden",
+        "hotelPickup": "1:00 Uhr",
+        "hotelReturn": "23:00 Uhr",
+        "price": "70",
+        "included": [
+          "Pyramiden von Gizeh",
+          "Ägyptisches Museum",
+          "Totenstadt",
+          "Große Sphinx",
+          "Mittagessen",
+          "Papyrus-Institut und Ölmühle",
+          "Bootsfahrt auf dem Nil (optional + 10 €)",
+          "Ägyptologe: Englisch, Französisch, Deutsch, Russisch, Polnisch",
+          "Hotelabholung und Rückfahrt"
+        ],
+        "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Desert Super Safari mit BBQ & Show",
+        "availability": "Täglich",
+        "duration": "ca. 6 Stunden",
+        "hotelPickup": "12:00 Uhr",
+        "hotelReturn": "20:00 Uhr",
+        "price": "30",
+        "notes": "Kinder unter 16 Jahren dürfen kein eigenes Fahrzeug fahren. Kunden dürfen ATVs oder Buggys nicht eigenständig bedienen und müssen den Anweisungen des ATV-Personals folgen.",
+        "included": [
+          "Abholung vom Hotel und Fahrt zum ATV-Zentrum",
+          "Quadtour in der Wüste – 45 min",
+          "Buggy-Fahrt – 20 min",
+          "Jeep-Fahrt 25 km bis zum Beduinenzelt",
+          "Ankunft im Zelt, Beduinen-Tee und Kamelritt",
+          "Abendessen (Indischer Reis, gegrilltes Hühnchen, Fleischbällchen, 3 Salate, Gemüse, Cola, Obst)",
+          "Orientalische Show (Bauchtanz, Tannoura, Folklore)",
+          "Rücktransfer zum Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1494674557684-c26be0f88950?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Mini Wüstensafari & Quad Abenteuer",
+        "availability": "Täglich",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "11:00 oder 14:00 Uhr",
+        "hotelReturn": "13:00 oder 16:00 Uhr",
+        "price": "20",
+        "included": [
+          "Abholung vom Hotel und Fahrt zum ATV-Zentrum",
+          "Quadtour in der Wüste – 30 min",
+          "Buggy-Fahrt – 15 min",
+          "Jeep-Fahrt 25 km bis zum Beduinenzelt",
+          "Ankunft im Zelt, Beduinen-Tee und Kamelritt",
+          "Rücktransfer zum Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1575677155757-b5eb75df3a4e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0"
+      },
+      {
+        "title": "Strand- und Wüsten-Reittour",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "15:00 Uhr",
+        "hotelReturn": "19:00 Uhr",
+        "price": "25",
+        "included": [
+          "1-stündiger Ausritt am Strand und in der Wüste",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1650433943275-55097457ebeb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Parasailing-Flug",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "11:00 Uhr oder 14:00 Uhr",
+        "hotelReturn": "13:00 Uhr oder 16:00 Uhr",
+        "price": "25",
+        "included": [
+          "Parasailing-Flug (5–7 Minuten in 50 m Höhe)",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/Parasailing flight.jpg"
+      },
+      {
+        "title": "Halb-U-Boot & Schnorcheln",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "08:00 Uhr, 10:00 Uhr oder 14:00 Uhr",
+        "hotelReturn": "11:30 Uhr, 13:30 Uhr oder 17:30 Uhr",
+        "price": "15",
+        "included": [
+          "1-stündige Fahrt im Halb-U-Boot mit Panoramafenstern",
+          "30–40 Minuten Schnorcheln im Roten Meer",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1664922114319-4700c0ef74b1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Tauchen & Schnorcheln entdecken",
+        "availability": "Jeden Tag",
+        "duration": "ca. 8 Stunden",
+        "hotelPickup": "08:00 Uhr",
+        "hotelReturn": "17:00 Uhr",
+        "price": "40",
+        "included": [
+          "Ganztägige Bootstour",
+          "Zwei Tauchgänge (je 15–20 Minuten)",
+          "Schnorchel-Stopp",
+          "Tauch- und Schnorchelausrüstung",
+          "Mittagessen & Getränke",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "https://images.unsplash.com/photo-1727095388910-e09f14913505?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "title": "Besuch im Hurghada Grand Aquarium",
+        "availability": "Jeden Tag",
+        "duration": "ca. 3 Stunden",
+        "hotelPickup": "10:00 Uhr",
+        "hotelReturn": "13:00 Uhr",
+        "price": "35",
+        "included": [
+          "Über 1.200 Meereslebewesen in 22 Galerien",
+          "Süßwasseraquarium, Zoo & Unterwassertunnel",
+          "Abholung und Rücktransport vom Hotel"
+        ],
+        "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
+      }      
+    ],
+    "InternalProgramsTitles": {
+      "highlights": "Höhepunkte",
+      "moreItems": "weitere Elemente",
+      "contactNow": "Jetzt kontaktieren",
+      "details": "Einzelheiten",
+      "pricingInfo": "Preisinformationen",
+      "adults": "Erwachsene",
+      "perPerson": "Pro Person",
+      "children": "Kinder (6–11 Jahre)",
+      "infants": "Kleinkinder (0–5 Jahre)",
+      "free": "KOSTENLOS",
+      "noCharge": "Keine Gebühren",
+      "hotelPickup": "Abholung vom Hotel",
+      "hotelReturn": "Rückkehr zum Hotel",
+      "included": "Inbegriffen"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Wir helfen Ihnen, Ihr perfektes Abenteuer zu planen"
+    },
+    "info": {
+      "phone": {
+        "title": "Telefon",
+        "label": "24/7 erreichbar"
+      },
+      "email": {
+        "title": "E-Mail",
+        "label": "Antwort innerhalb von 2 Stunden"
+      },
+      "office": {
+        "title": "Büro",
+        "value": "151, Marina Street, Hurghada, Ägypten",
+        "label": "Besuchen Sie uns jederzeit"
+      }
+    },
+    "map": {
+      "title": "Finden Sie unser Büro"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Schnelle Antworten auf häufige Fragen",
+      "items": [
+        {
+          "question": "Wie buche ich eine Tour?",
+          "answer": "Sie können eine Tour über unsere Website, telefonisch oder per E-Mail buchen. Wir helfen Ihnen, die perfekte Tour auszuwählen."
+        },
+        {
+          "question": "Was ist im Tourpreis enthalten?",
+          "answer": "Unsere Tourpreise beinhalten Transport, Unterkunft, Mahlzeiten wie angegeben, professionelle Reiseführer und alle im Tourverlauf genannten Aktivitäten."
+        },
+        {
+          "question": "Kann ich eine Tour individuell gestalten?",
+          "answer": "Natürlich! Wir sind auf maßgeschneiderte Touren spezialisiert, die auf Ihre Wünsche, Gruppengröße und Reisedaten abgestimmt sind. Kontaktieren Sie uns, um Details zu besprechen."
+        },
+        {
+          "question": "Wie lautet Ihre Stornierungsrichtlinie?",
+          "answer": "Wir bieten flexible Stornierungsrichtlinien. Die meisten Touren können bis zu 7 Tage vor Abreise vollständig storniert werden. Kontaktieren Sie uns für Details."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "quick_links": "Schnellzugriffe",
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Unsere Ausflüge",
+    "contact": "Kontakt",
+    "contact_title": "Kontaktinformationen",
+    "follow_us": "Folgen Sie uns",
+    "about_company": "Fares Friends Tours ist ein von der ägyptischen Tourismusbehörde lizenziertes Unternehmen der Klasse A mit der Lizenznummer 1696, gegründet am 20. September 2008. Das Unternehmen hat umfassende Erfahrung in der Organisation von Inlands- und Auslandsreisen, insbesondere Hajj- und Umrah-Programmen, und bietet umfassende Dienstleistungen wie Visa, Flüge, Unterkünfte und Betreuung durch Experten.",
+    "address": "151, Marina Street, Hurghada, Ägypten",
+    "rights": "Fares Friends Tours. Alle Rechte vorbehalten."
+  },
+  "notFound": {
+    "emoji": "🌍",
+    "title": "404",
+    "message": "Ups! Seite nicht gefunden",
+    "description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben.<br>Zurück zu den fantastischen Reisezielen!",
+    "button": "Zurück zur Startseite"
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "toTop": "Back to Top!",
+  "whatsappText": "Chat with us!",
+  "loading": "Loading...",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Excursions",
+    "contact": "Contact",
+    "brand": "Sun Sea Tour"
+  },
+  "home": {
+  "hero": {
+    "title": "Discover the World with Sun Sea Tour",
+    "subtitle": "Creating journeys filled with wonder, culture, and unforgettable memories",
+    "explore": "Start Exploring",
+    "book": "Plan Your Trip"
+  },
+  "destinations": {
+    "sectionTitle": "Top Destinations Await",
+    "sectionSubtitle": "From dreamy beaches to cultural treasures — your adventure begins here",
+    "viewDetails": "Discover More"
+  },
+  "features": {
+    "sectionTitle": "Why Travel with Sun Sea Tour",
+    "sectionSubtitle": "Your gateway to seamless travel and extraordinary adventures",
+    "safe": {
+      "title": "Travel with Confidence",
+      "desc": "Certified safety standards, reliable support, and peace of mind on every trip."
+    },
+    "price": {
+      "title": "Unbeatable Value",
+      "desc": "Transparent pricing, exclusive deals, and flexible payment options tailored for you."
+    },
+    "guide": {
+      "title": "Expert Local Guides",
+      "desc": "Passionate, knowledgeable, and ready to bring every destination to life."
+    },
+    "custom": {
+      "title": "Tailor-Made Experiences",
+      "desc": "Personalized itineraries designed around your dreams, pace, and passions."
+    }
+  },
+  "testimonials": {
+    "sectionTitle": "Our Travelers' Stories",
+    "sectionSubtitle": "Genuine reviews from explorers who journeyed with Sun Sea Tour"
+  }
+  },
+  "about": {
+  "hero": {
+    "title": "About Sun Sea Tour",
+    "subtitle": "Crafting memorable journeys since our beginning"
+  },
+  "story": {
+    "title": "Our Story",
+    "p1": "Sun Sea Tour is a licensed Egyptian travel company, recognized by the Ministry of Tourism with a Class A license. Since our foundation, we have specialized in creating unforgettable travel experiences — from cultural city breaks to seaside escapes, and from adventure-filled tours to spiritual journeys like Hajj and Umrah. We provide end-to-end services including visas, flights, accommodations, and personalized support from our dedicated experts.",
+    "p2": "Today, Sun Sea Tour is trusted by travelers across Egypt and beyond for our professionalism, creativity, and care.",
+    "stats": {
+      "travelers": "Happy Explorers",
+      "destinations": "Global Destinations",
+      "experience": "Years of Expertise"
+    }
+  },
+  "values": {
+    "title": "Our Values",
+    "subtitle": "The spirit that guides every journey",
+    "trust": {
+      "title": "Trust & Reliability",
+      "desc": "We earn your confidence with transparent service, dependable guidance, and lasting relationships."
+    },
+    "sustainability": {
+      "title": "Sustainable Travel",
+      "desc": "We support responsible tourism that benefits local communities and protects the planet’s beauty."
+    },
+    "excellence": {
+      "title": "Commitment to Excellence",
+      "desc": "Each journey is carefully designed to offer unique experiences and cherished memories."
+    }
+  },
+  "achievements": {
+    "title": "Our Achievements",
+    "subtitle": "Milestones that inspire us forward",
+    "awards": {
+      "t1": "Tourism Excellence Award 2023",
+      "d1": "Recognized for outstanding travel experiences",
+      "t2": "Rated 4.9/5",
+      "d2": "Consistently high traveler satisfaction",
+      "t3": "Eco-Friendly Certified",
+      "d3": "Pioneering sustainable tourism practices",
+      "t4": "5000+ Happy Travelers",
+      "d4": "Creating unforgettable moments across the globe"
+    }
+  }
+  },
+  "services": {
+    "heroTitle": "Sun Sea Tour",
+    "heroSubtitle": "Turning your travel dreams into breathtaking memories 🌍✈️",
+    "mainTitle": "Our Excursions & Adventures",
+    "mainSubtitle": "From the Red Sea to the world — discover hand-picked destinations with Sun Sea Tour",
+    "whyTitle": "Why Choose Sun Sea Tour?",
+    "whySubtitle": "Because every journey should feel special, safe, and unforgettable",
+    "why": [
+      {
+        "title": "🌟 Decades of Expertise",
+        "desc": "Trusted by thousands of travelers — from cultural explorations to luxury escapes."
+      },
+      {
+        "title": "🛡️ Safety & Comfort",
+        "desc": "Certified guides, seamless logistics, and top comfort standards, so you can travel worry-free."
+      },
+      {
+        "title": "✨ Tailored Experiences",
+        "desc": "We craft unique itineraries designed around your style, preferences, and pace."
+      },
+      {
+        "title": "🌐 Worldwide Connections",
+        "desc": "Exclusive partnerships with hotels, airlines, and local guides across the globe."
+      }
+    ],
+    "bookingTitle": "Your Journey Starts Here",
+    "bookingSubtitle": "Booking with Sun Sea Tour is simple, smooth, and stress-free",
+    "steps": [
+      {
+        "title": "🌍 Explore & Choose",
+        "desc": "Browse our exciting tours and pick the adventure that excites you most."
+      },
+      {
+        "title": "📞 Connect with Us",
+        "desc": "Reach us anytime via phone, WhatsApp, or email — we’re here 24/7."
+      },
+      {
+        "title": "📝 Customize & Confirm",
+        "desc": "Fine-tune your itinerary with our experts and lock in every detail."
+      },
+      {
+        "title": "✈️ Travel & Enjoy",
+        "desc": "Pack your bags and get ready for an unforgettable experience with Sun Sea Tour!"
+      }
+    ],
+    "programsList": [
+    {
+        "title": "Orange Island",
+        "availability": "Every day",
+        "duration": "approx. 2 hours",
+        "hotelPickup": "8:00 am",
+        "hotelReturn": "4:00 pm",
+        "notes": "Extra Charge: 5 Euro for natural park",
+        "price": "25",
+        "included": [
+          "2-hours on Orange Island",
+          "2-Snorkeling stops",
+          "Water sports: banana & sofa boat",
+          "Lunch & drinks on the boat",
+          "Snorkeling Equipment",
+          "Hotel pickup and drop‑off"
+        ],
+        "image": "assets/images/programs images/Orange Island.jpeg"
+    },
+    {
+      "title": "Paradise Island",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "8:00 am",
+      "hotelReturn": "4:00 pm",
+      "notes": "Extra Charge: 5 Euro for natural park",
+      "price": "50",
+      "included": [
+        "3-hours in the Paradise island 🏝️",
+        "1 stop for snorkelling 🤿 ",
+        "Snorkeling Equipment",
+        "Get your lunch in the island open buffet"
+      ],
+      "image": "assets/images/programs images/Paradise Island.jpeg"
+    },
+    {
+      "title": "Hula‑Hula Island",
+      "availability": "Every day",
+      "duration": "approx. 8 hours",
+      "hotelPickup": "8:00 am",
+      "hotelReturn": "4:00 pm",
+      "notes": "Extra Charge: 5 Euro for natural park",
+      "price": "25",
+      "included": [
+        "Two hours on Hula‑Hula Island",
+        "Two Snorkeling stops",
+        "Water sports: banana & sofa boat",
+        "Lunch & drinks on the boat",
+        "Snorkeling Equipment",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "assets/images/programs images/Hula‑Hula Island.webp"
+    },
+    {
+      "title": "Eden Island",
+      "availability": "Every day",
+      "duration": "approx. 2 hours",
+      "hotelPickup": "8:00 am",
+      "hotelReturn": "4:00 pm",
+      "notes": "Extra Charge: 5 Euro for natural park",
+      "price": "70",
+      "included": [
+        "2-hours on Eden Island",
+        "2-Snorkeling stops",
+        "Water sports: banana & sofa boat",
+        "Lunch & drinks on the boat",
+        "Snorkeling Equipment",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "assets/images/programs images/Eden Island.jpeg"
+    },
+    {
+      "title": "Magawish island",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "8:00 am",
+      "hotelReturn": "4:00 pm",
+      "notes": "Extra Charge: 5 Euro for natural park",
+      "price": "25",
+      "included": [
+        "2 stop for snorkelling",
+        "2 hour in the Magawish island",
+        "Snorkeling Equipment",
+        "Lunch in the boat 🛥️"
+      ],
+      "image": "assets/images/programs images/Magawish island.jpeg"
+    },
+    {
+      "title": "Dolphine House",
+      "availability": "Every day",
+      "duration": "approx. 2 hours",
+      "hotelPickup": "8:00 am",
+      "hotelReturn": "3 pm",
+      "price": "25",
+      "included": [
+        "2 Snorkeling stops",
+        "Watching Dolphins",
+        "Water sports: banana & sofa boat",
+        "Lunch and drinks",
+        "Snorkeling Equipment",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "assets/images/programs images/Dolphine House.webp"
+    },
+    {
+      "title": "Dolphin & Sea Lion Show",
+      "availability": "Every day",
+      "duration": "approx. 2 hours",
+      "hotelPickup": "9:30 am",
+      "hotelReturn": "12 pm",
+      "price": "20",
+      "included": [
+        "60‑minute dolphin, sea lion & walrus show",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1495368008737-9d436e094dd5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "VIP Dolphin Tour with Snorkeling",
+      "availability": "Every day",
+      "duration": "varied",
+      "hotelPickup": "",
+      "hotelReturn": "",
+      "price": "60",
+      "included": [
+        "Small group visit to dolphins in free habitat",
+        "Snorkel gear & life jackets",
+        "transfer",
+        "Breakfast",
+        "Swimming with dolphins",
+        "Grill lunch",
+        "Snacks & drinks",
+        "Hotel transfer",
+        "Bring your towel!"
+      ],
+      "image": "https://images.unsplash.com/photo-1504317083653-6843c8aa144f?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Private Hurghada City Tour",
+      "availability": "Every day",
+      "duration": "varied",
+      "hotelPickup": "",
+      "hotelReturn": "",
+      "price": "20",
+      "notes": "The price is for a group",
+      "included": [
+        "Private transportation.",
+        "Professional travel guide.",
+        "Admission to the marina is free to see the most beautiful yachts and boats. ",
+        "Admission to the fish market is free, where you can find fresh fish from the Red Sea. ",
+        "Admission to the church, considered the oldest and largest church in Hurghada, is free. ",
+        "Entrance to the fruit and vegetable market is free."
+      ],
+      "image": "assets/images/programs images/Private Hurghada City Tour.jpeg"
+    },
+    {
+      "title": "Private Speed Boat",
+      "availability": "Every day",
+      "duration": "approx. 4 hours",
+      "hotelPickup": "", 
+      "hotelReturn": "",
+      "price": "120",
+      "notes": "The price is for a group",
+      "included": [
+        "Visit White Island",
+        "Snorkeling",
+        "Optional: Dolphin House, Orange Island, Paradise Island or Eden Island (extra cost)",
+        "Snorkeling gear, fruits & drinks",
+        "Private transfer with hotel pickup/drop‑off"
+      ],
+      "image": "assets/images/programs images/Private Speed Boat.jpeg"
+    },
+    {
+      "title": "Abu Dabbab Bay Marsa Alam",
+      "availability": "Every day",
+      "duration": "approx. 12 hours",
+      "hotelPickup": "05:30 AM",
+      "hotelReturn": "05:30 PM",
+      "price": "70",
+      "included": [
+        "Hotel pickup and drop of from anywhere in Hurghada",
+        "Transportation by private air-conditioned car",
+        "Beach entry fees and all taxes and fees",
+        "Lunch and drinks",
+        "Snorklang guide",
+        "Snacks, cola and water"
+      ],
+      "image": "assets/images/programs images/Abu Dabbab Bay Marsa Alam.jpeg"
+    },
+    {
+      "title": "Luxor Full‑Day Nile Excursion",
+      "availability": "Every day",
+      "duration": "approx. 18 hours",
+      "hotelPickup": "4 am",
+      "hotelReturn": "10 pm",
+      "price": "70",
+      "included": [
+        "Valley of the Kings",
+        "Karnak Temple & Avenue of Sphinxes",
+        "City of the Dead",
+        "Hatshepsut Temple",
+        "Colossi of Memnon",
+        "Alabaster & oil factories",
+        "Lunch",
+        "Egyptologist guide (multi‑language)",
+        "Hotel pickup and drop‑off by bus"
+      ],
+      "image": "https://images.unsplash.com/photo-1705680757279-98fa1fe46853?q=80&w=1132&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Cairo & Pyramids",
+      "availability": "Every day",
+      "duration": "approx. 22 hours",
+      "hotelPickup": "1am",
+      "hotelReturn": "11pm",
+      "price": "70",
+      "included": [
+        "Pyramids of Giza",
+        "The Egyptian Museum",
+        "City of the Dead",
+        "The Great Sphinx",
+        "Lunch",
+        "Papyrus Institute and Oil Factory",
+        "Nile boat trip (optional +€10)",
+        "Egyptologist guide: English, French, German, Russian, Polish.",
+        "Hotel pickup and drop-off"
+      ],
+      "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Desert Super Safari with BBQ & Show",
+      "availability": "Every day",
+      "duration": "approx. 6 hours",
+      "hotelPickup": "12 pm",
+      "hotelReturn": "8 pm",
+      "price": "30",
+      "notes": "Children under 16 years of age are not allowed to drive their own vehicle , Customers are not allowed to play on the ATVs  or buggies and must follow these instructions from the ATV staff",
+      "included": [
+        "We pick up clients from the hotel and go to the ATV center",
+        "Quad biking in the desert 45 min",
+        "buggy drive 20 min",
+        "jeep 25 km till Bedouin tent ",
+        "Arrive at the tent and enjoy Bedouin tea and camel ride ",
+        "dinner ( Indian rice - grilled chicken - meat balls  - 3 kinds of salads - vegetables - cola - fruits ).",
+        "oriental show ( belly dancer - tannoura - folklore show )",
+        "Transfer back to the hotel"
+      ],
+      "image": "https://images.unsplash.com/photo-1494674557684-c26be0f88950?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Desert Mini Safari & Quad Adventure",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "11 am or 2 pm",
+      "hotelReturn": "1 pm or 4 pm",
+      "price": "20",
+      "included": [
+        "We pick up clients from the hotel and go to the ATV center",
+        "Quad biking in the desert 30 min",
+        "⁠buggy drive 15 min",
+        "⁠jeep 25 km till Bedouin tent",
+        "Arrive at the tent and enjoy Bedouin tea and camel ride",
+        "Transfer back to the hotel"
+      ],
+      "image": "https://images.unsplash.com/photo-1575677155757-b5eb75df3a4e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Beach & Desert Horseback Tour",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "3 pm",
+      "hotelReturn": "7 pm",
+      "price": "25",
+      "included": [
+        "1‑hour horseback ride along beach & desert",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1650433943275-55097457ebeb?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Parasailing flight",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "11 am or 2 pm",
+      "hotelReturn": "1 pm or 4 pm",
+      "price": "25", 
+      "included": [
+        "Parasailing flight (5‑7 minutes at 50 m)",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "assets/images/programs images/Parasailing flight.jpg"
+    },
+    {
+      "title": "Semi‑Submarine & Snorkel",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "8 am, 10 am or 2 pm",
+      "hotelReturn": "11:30 am, 1:30 pm or 5:30 pm",
+      "price": "15",
+      "included": [
+        "1‑hour semi‑submarine with panoramic windows",
+        "30‑40 minutes snorkeling in the Red Sea",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1664922114319-4700c0ef74b1?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Discover Diving & Snorkeling",
+      "availability": "Every day",
+      "duration": "approx. 8 hours",
+      "hotelPickup": "8 am",
+      "hotelReturn": "5 pm",
+      "price": "40",
+      "included": [
+        "Full‑day boat trip",
+        "Two dives (15‑20 min each)",
+        "Snorkeling stop",
+        "Diving & snorkeling equipment",
+        "Lunch & drinks",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "https://images.unsplash.com/photo-1727095388910-e09f14913505?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "title": "Hurghada Grand Aquarium Visit",
+      "availability": "Every day",
+      "duration": "approx. 3 hours",
+      "hotelPickup": "10 am",
+      "hotelReturn": "1 pm",
+      "price": "35",
+      "included": [
+        "Over 1,200 marine animals in 22 galleries",
+        "Freshwater aquarium, zoo & underwater tunnel",
+        "Hotel pickup and drop‑off"
+      ],
+      "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
+    }
+    ],
+    "InternalProgramsTitles" : {
+      "highlights": "Highlights",
+      "moreItems": "more items",
+      "contactNow": "Contact Now",
+      "details": "Details",
+      "pricingInfo": "Pricing Information",
+      "adults": "Adults",
+      "perPerson": "Per person" ,
+      "children": "Children (6-11 years)" ,
+      "infants": "Infants (0-5 years)" ,
+      "free": "FREE" ,
+      "noCharge": "No charge" ,
+      "hotelPickup": "Hotel Pickup" ,
+      "hotelReturn": "Hotel Return" ,
+      "included": "What's Included" 
+    }
+  },
+  "contact": {
+  "hero": {
+    "title": "Let’s Connect",
+    "subtitle": "Your journey starts with a simple hello — we’re here to make it unforgettable"
+  },
+  "info": {
+    "phone": {
+      "title": "Call Us",
+      "label": "We’re available 24/7 — because adventures don’t wait"
+    },
+    "email": {
+      "title": "Email Us",
+      "label": "Quick replies, usually within 2 hours"
+    },
+    "office": {
+      "title": "Visit Our Office",
+      "value": "Hurghada, Egypt",
+      "label": "Drop by anytime — our doors are always open"
+    }
+  },
+  "map": {
+    "title": "Find Us Easily",
+    "subtitle": "Our office is right where the sea meets the sun"
+  },
+  "faq": {
+    "title": "Have Questions?",
+    "subtitle": "Here are some quick answers before you pack your bags",
+    "items": [
+      {
+        "question": "How can I book my dream trip?",
+        "answer": "Booking is easy! Use our website, call our team, or drop us a message on WhatsApp or email — we’ll guide you every step of the way."
+      },
+      {
+        "question": "What’s included in the price?",
+        "answer": "Our tours are designed to be stress-free: transport, stays, meals (as listed), expert guides, and activities — all covered. No hidden surprises."
+      },
+      {
+        "question": "Can I design my own tour?",
+        "answer": "Of course! Whether you want a romantic getaway, a family holiday, or an adventure-packed trip, we’ll customize every detail for you."
+      },
+      {
+        "question": "What if I need to cancel?",
+        "answer": "Life happens. That’s why our cancellation policies are flexible. Cancel up to 7 days before departure for a full refund — no hassle."
+      }
+    ]
+  }
+  },
+  "footer": {
+  "quick_links": "Explore",
+  "home": "Home",
+  "about": "About Us",
+  "services": "Excursions",
+  "contact": "Contact",
+  "contact_title": "Get in Touch",
+  "follow_us": "Follow Us",
+  "about_company": "Sun Sea Tour is your trusted partner for unforgettable journeys. From the Red Sea to worldwide destinations, we create seamless travel experiences with care, passion, and expertise.",
+  "address": "Hurghada, Egypt",
+  "rights": "Sun Sea Tour. All Rights Reserved."
+  },
+  "notFound": {
+    "emoji": "🧭",
+    "title": "404",
+    "message": "Lost in the Journey?",
+    "description": "Looks like this page took a detour. Don’t worry — adventures await!<br>Let’s guide you back to the right path.",
+    "button": "Return Home"
+  }
+}
