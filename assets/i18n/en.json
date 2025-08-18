@@ -13,7 +13,7 @@
   "hero": {
     "title": "Discover the World with Sun Sea Tour",
     "subtitle": "Creating journeys filled with wonder, culture, and unforgettable memories",
-    "explore": "Start Exploring",
+    "explore": "Start Explore",
     "book": "Plan Your Trip"
   },
   "destinations": {
@@ -49,10 +49,12 @@
   "about": {
   "hero": {
     "title": "About Sun Sea Tour",
-    "subtitle": "Crafting memorable journeys since our beginning"
+    "subtitle": "Crafting memorable journeys since our beginning",
+    "discover": "Discover Our Journey"
   },
   "story": {
     "title": "Our Story",
+    "ourJourney": "Our Journey",
     "p1": "Sun Sea Tour is a licensed Egyptian travel company, recognized by the Ministry of Tourism with a Class A license. Since our foundation, we have specialized in creating unforgettable travel experiences — from cultural city breaks to seaside escapes, and from adventure-filled tours to spiritual journeys like Hajj and Umrah. We provide end-to-end services including visas, flights, accommodations, and personalized support from our dedicated experts.",
     "p2": "Today, Sun Sea Tour is trusted by travelers across Egypt and beyond for our professionalism, creativity, and care.",
     "stats": {
@@ -65,14 +67,17 @@
     "title": "Our Values",
     "subtitle": "The spirit that guides every journey",
     "trust": {
+      "name": "Trust",
       "title": "Trust & Reliability",
       "desc": "We earn your confidence with transparent service, dependable guidance, and lasting relationships."
     },
     "sustainability": {
+      "name": "Sustainability",
       "title": "Sustainable Travel",
       "desc": "We support responsible tourism that benefits local communities and protects the planet’s beauty."
     },
     "excellence": {
+      "name": "Excellence",
       "title": "Commitment to Excellence",
       "desc": "Each journey is carefully designed to offer unique experiences and cherished memories."
     }
@@ -90,13 +95,23 @@
       "t4": "5000+ Happy Travelers",
       "d4": "Creating unforgettable moments across the globe"
     }
+  },
+  "callActions" : {
+    "title":"Ready to Start Your Adventure?",
+    "subtitle":"Join thousands of happy travelers who have experienced the magic of the Red Sea",
+    "btn1":"Start Planning Now",
+    "btn2":"Explore Our Tours"
   }
   },
   "services": {
     "heroTitle": "Sun Sea Tour",
     "heroSubtitle": "Turning your travel dreams into breathtaking memories 🌍✈️",
+    "tours": "Tours",
+    "happyGuests": "Happy Guests",
+    "satisfaction": "Satisfaction",
     "mainTitle": "Our Excursions & Adventures",
     "mainSubtitle": "From the Red Sea to the world — discover hand-picked destinations with Sun Sea Tour",
+    "whyChoose": "Why Choose Us",
     "whyTitle": "Why Choose Sun Sea Tour?",
     "whySubtitle": "Because every journey should feel special, safe, and unforgettable",
     "why": [
@@ -117,6 +132,7 @@
         "desc": "Exclusive partnerships with hotels, airlines, and local guides across the globe."
       }
     ],
+    "howBooking": "How It Works",
     "bookingTitle": "Your Journey Starts Here",
     "bookingSubtitle": "Booking with Sun Sea Tour is simple, smooth, and stress-free",
     "steps": [
@@ -475,81 +491,189 @@
       "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
     }
     ],
-    "InternalProgramsTitles" : {
-      "highlights": "Highlights",
-      "moreItems": "more items",
-      "contactNow": "Contact Now",
-      "details": "Details",
-      "pricingInfo": "Pricing Information",
-      "adults": "Adults",
-      "perPerson": "Per person" ,
-      "children": "Children (6-11 years)" ,
-      "infants": "Infants (0-5 years)" ,
-      "free": "FREE" ,
-      "noCharge": "No charge" ,
-      "hotelPickup": "Hotel Pickup" ,
-      "hotelReturn": "Hotel Return" ,
-      "included": "What's Included" 
+    "InternalProgramsTitles": {
+        "highlights": "Highlights",
+        "moreItems": "More items",
+        "contactNow": "Contact Now",
+        "details": "Details",
+        "pricingInfo": "Pricing Information",
+        "adults": "Adults",
+        "perPerson": "Per person",
+        "children": "Children (6-11 years)",
+        "infants": "Infants (0-5 years)",
+        "free": "FREE",
+        "noCharge": "No charge",
+        "hotelPickup": "Hotel Pickup",
+        "hotelReturn": "Hotel Return",
+        "included": "What's Included",
+
+        "heroBadge": "Premium Experience",
+        "metaAvailability": "Availability",
+        "metaDuration": "Duration",
+        "metaPrice": "From",
+
+        "quickInfo": {
+          "location": "Location",
+          "groupSize": "Group Size",
+          "safety": "Safety",
+          "languages": "Languages",
+          "locationValue": "Red Sea, Egypt",
+          "groupSizeValue": "Small Groups",
+          "safetyValue": "Certified Guides",
+          "languagesValue": "Multi-Language"
+        },
+
+        "pricing": {
+          "choose": "Choose the perfect option for your family",
+          "adultFeatures": ["Full experience", "All equipment included", "Professional guide"],
+          "childBadge": "50% Off",
+          "childDescription": "50% discount",
+          "childFeatures": ["Same experience", "Child-friendly", "Safety equipment"],
+          "infantBadge": "Free",
+          "infantDescription": "No charge",
+          "infantFeatures": ["No charge", "Safe environment", "Family welcome"],
+          "adultBadge": "Most Popular"
+        },
+
+        "notes": {
+          "title": "Important Information"
+        },
+
+        "schedule": {
+          "title": "Schedule & Timing",
+          "subtitle": "Plan your perfect day with us",
+          "pickupLabel": "We'll pick you up from your hotel",
+          "returnLabel": "Back to your hotel with memories"
+        },
+
+        "includedSection": {
+          "subtitle": "Everything you need for an amazing experience"
+        },
+
+        "cta": {
+          "title": "Ready for Your Adventure?",
+          "subtitle": "Book now and secure your spot for this amazing experience",
+          "saveBtn": "Save for Later"
+        }
     }
   },
   "contact": {
-  "hero": {
-    "title": "Let’s Connect",
-    "subtitle": "Your journey starts with a simple hello — we’re here to make it unforgettable"
-  },
-  "info": {
-    "phone": {
-      "title": "Call Us",
-      "label": "We’re available 24/7 — because adventures don’t wait"
+    "hero": {
+      "getInTouch": "Get In Touch",
+      "title": "Let’s Connect",
+      "subtitle": "Your journey starts with a simple hello — we’re here to make it unforgettable",
+      "btn1": "Chat on WhatsApp",
+      "btn2": "Call Now"
     },
-    "email": {
-      "title": "Email Us",
-      "label": "Quick replies, usually within 2 hours"
+    "quick": {
+      "title": "Multiple Ways to Reach Us",
+      "subtitle": "Choose your preferred method of communication",
+      "phone": {
+        "badge": "24/7 Available",
+        "action1": "Call Now",
+        "action2": "WhatsApp"
+      },
+      "email": {
+        "badge": "Quick Response",
+        "action1": "Send Email"
+      },
+      "office": {
+        "badge": "Visit Us",
+        "action1": "View on Map"
+      }
     },
-    "office": {
-      "title": "Visit Our Office",
-      "value": "Hurghada, Egypt",
-      "label": "Drop by anytime — our doors are always open"
+    "info": {
+      "phone": {
+        "title": "Call Us",
+        "label": "We’re available 24/7 — because adventures don’t wait"
+      },
+      "email": {
+        "title": "Email Us",
+        "label": "Quick replies, usually within 2 hours"
+      },
+      "office": {
+        "title": "Visit Our Office",
+        "value": "Hurghada, Egypt",
+        "label": "Drop by anytime — our doors are always open"
+      }
+    },
+    "map": {
+      "title": "Find Us Easily",
+      "subtitle": "Our office is right where the sea meets the sun",
+      "overlayTitle": "Sun Sea Tour Office",
+      "overlayBtn": "Get Directions"
+    },
+    "hours": {
+      "title": "Office Hours",
+      "days": {
+        "monFri": "Monday - Friday",
+        "sat": "Saturday",
+        "sun": "Sunday",
+        "emergency": "Emergency Support"
+      },
+      "times": {
+        "monFri": "9:00 AM - 6:00 PM",
+        "sat": "9:00 AM - 4:00 PM",
+        "sun": "10:00 AM - 3:00 PM",
+        "emergency": "24/7 Available"
+      }
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "features": [
+        "Professional & Experienced Team",
+        "24/7 Customer Support",
+        "Best Price Guarantee",
+        "Safe & Secure Tours",
+        "Multi-Language Support"
+      ]
+    },
+    "faq": {
+      "title": "Have Questions?",
+      "subtitle": "Here are some quick answers before you pack your bags",
+      "items": [
+        {
+          "question": "How can I book my dream trip?",
+          "answer": "Booking is easy! Use our website, call our team, or drop us a message on WhatsApp or email — we’ll guide you every step of the way."
+        },
+        {
+          "question": "What’s included in the price?",
+          "answer": "Our tours are designed to be stress-free: transport, stays, meals (as listed), expert guides, and activities — all covered. No hidden surprises."
+        },
+        {
+          "question": "Can I design my own tour?",
+          "answer": "Of course! Whether you want a romantic getaway, a family holiday, or an adventure-packed trip, we’ll customize every detail for you."
+        },
+        {
+          "question": "What if I need to cancel?",
+          "answer": "Life happens. That’s why our cancellation policies are flexible. Cancel up to 7 days before departure for a full refund — no hassle."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Start Your Adventure?",
+      "subtitle": "Contact us today and let us help you plan the perfect trip to the Red Sea",
+      "btn1": "Start Chatting Now",
+      "btn2": "Call Us Directly"
     }
   },
-  "map": {
-    "title": "Find Us Easily",
-    "subtitle": "Our office is right where the sea meets the sun"
-  },
-  "faq": {
-    "title": "Have Questions?",
-    "subtitle": "Here are some quick answers before you pack your bags",
-    "items": [
-      {
-        "question": "How can I book my dream trip?",
-        "answer": "Booking is easy! Use our website, call our team, or drop us a message on WhatsApp or email — we’ll guide you every step of the way."
-      },
-      {
-        "question": "What’s included in the price?",
-        "answer": "Our tours are designed to be stress-free: transport, stays, meals (as listed), expert guides, and activities — all covered. No hidden surprises."
-      },
-      {
-        "question": "Can I design my own tour?",
-        "answer": "Of course! Whether you want a romantic getaway, a family holiday, or an adventure-packed trip, we’ll customize every detail for you."
-      },
-      {
-        "question": "What if I need to cancel?",
-        "answer": "Life happens. That’s why our cancellation policies are flexible. Cancel up to 7 days before departure for a full refund — no hassle."
-      }
-    ]
-  }
-  },
   "footer": {
-  "quick_links": "Explore",
-  "home": "Home",
-  "about": "About Us",
-  "services": "Excursions",
-  "contact": "Contact",
-  "contact_title": "Get in Touch",
-  "follow_us": "Follow Us",
-  "about_company": "Sun Sea Tour is your trusted partner for unforgettable journeys. From the Red Sea to worldwide destinations, we create seamless travel experiences with care, passion, and expertise.",
-  "address": "Hurghada, Egypt",
-  "rights": "Sun Sea Tour. All Rights Reserved."
+    "quick_links": "Explore",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Excursions",
+    "contact": "Contact",
+    "contact_title": "Get in Touch",
+    "premiumTours": "Premium Tours",
+    "happyGuests": "Happy Guests",
+    "destinations": "Destinations",
+    "phone": "Phone",
+    "email": "Email",
+    "addressText": "Address",
+    "follow_us": "Follow Us",
+    "about_company": "Sun Sea Tour is your trusted partner for unforgettable journeys. From the Red Sea to worldwide destinations, we create seamless travel experiences with care, passion, and expertise.",
+    "address": "Hurghada, Egypt",
+    "rights": "Sun Sea Tour. All Rights Reserved."
   },
   "notFound": {
     "emoji": "🧭",
