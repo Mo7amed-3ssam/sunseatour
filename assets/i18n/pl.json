@@ -1,142 +1,216 @@
 {
-  "toTop": "Înapoi sus!",
-  "whatsappText": "Discută cu noi!",
-  "loading": "Se încarcă...",
+  "toTop": "Powrót na górę",
+  "whatsappText": "Porozmawiaj z nami!",
+  "loading": "Ładowanie...",
   "nav": {
-    "home": "Acasă",
-    "about": "Despre noi",
-    "services": "Excursiile noastre",
-    "contact": "Contactează-ne",
-    "brand": "Fares Friends Tours"
+    "home": "Start",
+    "about": "O nas",
+    "services": "Wycieczki",
+    "contact": "Kontakt",
+    "brand": "Sun Sea Tours"
   },
   "home": {
     "hero": {
-      "title": "Bine ai venit la Fares Friends Tours",
-      "subtitle": "Partenerul tău de încredere pentru experiențe de călătorie de neuitat",
-      "explore": "Află mai multe",
-      "book": "Contactează-ne"
+      "title": "Odkryj świat z Sun Sea Tour",
+      "subtitle": "Tworzymy podróże pełne cudów, kultury i niezapomnianych wspomnień",
+      "explore": "Zacznij zwiedzać",
+      "book": "Zaplanuj podróż"
     },
     "destinations": {
-      "sectionTitle": "Destinații populare",
-      "sectionSubtitle": "Explorează cele mai iubite destinații din lume",
-      "viewDetails": "Vezi detalii"
+      "sectionTitle": "Skontaktuj się z nami – bezpłatne konsultacje",
+      "sectionSubtitle": "Od marzycielskich plaż po kulturowe skarby – twoja przygoda zaczyna się tutaj",
+      "viewDetails": "Dowiedz się więcej"
     },
     "features": {
-      "sectionTitle": "De ce să alegi Fares Friends",
-      "sectionSubtitle": "Oferim experiențe de călătorie excepționale și servicii de neegalat",
+      "sectionTitle": "Dlaczego Sun Sea Tour?",
+      "sectionSubtitle": "Twoja brama do płynnych podróży i wyjątkowych wrażeń",
       "safe": {
-        "title": "Siguranță & Protecție",
-        "desc": "Siguranța ta este prioritatea noastră, cu ghizi certificați și rezervări sigure."
+        "title": "Podróżuj z pewnością",
+        "desc": "Certyfikowane standardy bezpieczeństwa, niezawodne wsparcie i spokój ducha na każdą podróż."
       },
       "price": {
-        "title": "Cele mai bune prețuri",
-        "desc": "Tarife competitive, fără costuri ascunse și opțiuni flexibile de plată."
+        "title": "Bezkonkurencyjna wartość",
+        "desc": "Przejrzyste ceny, ekskluzywne oferty i elastyczne opcje płatności szyte na miarę."
       },
       "guide": {
-        "title": "Ghizi profesioniști",
-        "desc": "Ghizi experimentați care cunosc în detaliu destinațiile."
+        "title": "Lokalni przewodnicy z pasją",
+        "desc": "Pełni pasji, kompetentni i gotowi ożywić każdą destynację."
       },
       "custom": {
-        "title": "Tururi personalizate",
-        "desc": "Experiențe adaptate preferințelor și programului tău."
+        "title": "Wyjątkowe doświadczenia na życzenie",
+        "desc": "Spersonalizowane trasy dostosowane do twoich marzeń, tempa i pasji."
       }
     },
     "testimonials": {
-      "sectionTitle": "Ce spun clienții noștri",
-      "sectionSubtitle": "Experiențe reale de la călători fericiți"
+      "sectionTitle": "Historie podróżników",
+      "sectionSubtitle": "Autentyczne opinie odkrywców podróżujących z Sun Sea Tour"
     }
   },
   "about": {
     "hero": {
-      "title": "Despre Fares Friends",
-      "subtitle": "Oferim călătorii de neuitat din 2008"
+      "title": "O Sun Sea Tour",
+      "subtitle": "Tworzymy niezapomniane podróże od samego początku",
+      "discover": "Poznaj naszą historię"
     },
     "story": {
-      "title": "Povestea noastră",
-      "p1": "Fares Friends Tours este o companie turistică egipteană licențiată, aprobată de Ministerul Turismului cu licență Clasa A (#1696), fondată pe 20 septembrie 2008. Compania are o vastă experiență în organizarea de excursii interne și internaționale, în special programe Hajj și Umrah, oferind servicii complete care includ vize, zboruri, cazare și supervizare completă de către o echipă de specialiști.",
-      "p2": "Fares Friends Tours este un nume de încredere, cunoscut pentru profesionalism și seriozitate în întreaga Egipt.",
+      "title": "Nasza historia",
+      "ourJourney": "Nasza podróż",
+      "p1": "Sun Sea Tour to licencjonowane egipskie biuro podróży, uznane przez Ministerstwo Turystyki z licencją klasy A. Od początku istnienia specjalizujemy się w tworzeniu niezapomnianych doświadczeń podróżniczych – od kulturowych wypadów po nadmorskie ucieczki, od pełnych przygód wypraw po duchowe podróże, takie jak Hajj czy Umrah. Oferujemy kompleksowe usługi obejmujące wizy, loty, zakwaterowanie i osobiste wsparcie od naszego zaangażowanego zespołu ekspertów.",
+      "p2": "Dziś Sun Sea Tour cieszy się zaufaniem podróżników w Egipcie i poza nim dzięki naszej profesjonalnej obsłudze, kreatywności i trosce.",
       "stats": {
-        "travelers": "Călători fericiți",
-        "destinations": "Destinații turistice",
-        "experience": "Ani de experiență"
+        "travelers": "Zadowoleni odkrywcy",
+        "destinations": "Globalne destynacje",
+        "experience": "Lata doświadczenia"
       }
     },
     "values": {
-      "title": "Valorile noastre",
-      "subtitle": "Principiile care ne ghidează activitatea",
+      "title": "Nasze wartości",
+      "subtitle": "Duch, który prowadzi każdą podróż",
       "trust": {
-        "title": "Încredere & Credibilitate",
-        "desc": "Construim relații pe termen lung prin comunicare sinceră și servicii de încredere. Încrederea ta este cea mai valoroasă resursă a noastră."
+        "name": "Zaufanie",
+        "title": "Zaufanie i Niezawodność",
+        "desc": "Zyskujemy Twoje zaufanie poprzez przejrzyste usługi, niezawodną współpracę i trwałe relacje."
       },
       "sustainability": {
-        "title": "Sustenabilitate",
-        "desc": "Angajament față de un turism responsabil care respectă comunitățile locale și protejează frumusețea naturală."
+        "name": "Zrównoważony rozwój",
+        "title": "Zrównoważona turystyka",
+        "desc": "Promujemy odpowiedzialną turystykę, która wspiera społeczności lokalne i chroni piękno planety."
       },
       "excellence": {
-        "title": "Excelență",
-        "desc": "Fiecare călătorie este concepută pentru a oferi experiențe remarcabile și amintiri de durată."
+        "name": "Doskonałość",
+        "title": "Zaangażowani w doskonałość",
+        "desc": "Każda podróż jest starannie zaprojektowana, aby dostarczać wyjątkowe przeżycia i trwałe wspomnienia."
       }
     },
     "achievements": {
-      "title": "Realizările noastre",
-      "subtitle": "Premii și repere care ne motivează",
+      "title": "Nasze osiągnięcia",
+      "subtitle": "Kamienie milowe, które inspirują nas do działania",
       "awards": {
-        "t1": "Cel mai bun organizator de tururi 2023",
-        "d1": "Premiat pentru excelență în turism",
-        "t2": "Rating 4.9/5",
-        "d2": "Rating mediu de satisfacție a clienților",
-        "t3": "Certificat pentru Turism Verde",
-        "d3": "Angajament pentru practici ecologice",
-        "t4": "5000+ Clienți fericiți",
-        "d4": "De încredere pentru călători din întreaga lume"
+        "t1": "Nagroda turystyczna 2023",
+        "d1": "Wyróżnienie za wybitne doświadczenia podróżnicze",
+        "t2": "Ocena 4,9/5",
+        "d2": "Ciągle wysoki poziom satysfakcji podróżnych",
+        "t3": "Certyfikat ekologiczny",
+        "d3": "Pionierzy praktyk zrównoważonej turystyki",
+        "t4": "5000+ zadowolonych podróżników",
+        "d4": "Tworzymy niezapomniane chwile na całym świecie"
       }
+    },
+    "callActions": {
+      "title": "Gotowy na przygodę?",
+      "subtitle": "Dołącz do tysięcy szczęśliwych podróżników, którzy odkryli magię Morza Czerwonego",
+      "btn1": "Zacznij planować",
+      "btn2": "Poznaj nasze wycieczki"
     }
   },
   "services": {
-    "heroTitle": "Fares Friends Tours",
-    "heroSubtitle": "Creăm călătorii de neuitat – din Egipt către lume și dincolo.",
-    "mainTitle": "Excursiile & Aventurile Noastre",
-    "mainSubtitle": "Descoperă lumea alături de Fares Friends – partenerul tău de încredere în călătorii",
-    "whyTitle": "De ce să călătorești cu Fares Friends?",
-    "whySubtitle": "Oferim excelență, grijă și amintiri de durată",
+    "heroTitle": "Sun Sea Tour",
+    "heroSubtitle": "Spełniamy twoje podróżnicze marzenia i zamieniamy je w niezapomniane wspomnienia 🌍✈️",
+    "tours": "Wycieczki",
+    "happyGuests": "Zadowoleni Goście",
+    "satisfaction": "Satysfakcja",
+    "mainTitle": "Nasze Wycieczki i Przygody",
+    "mainSubtitle": "Od Morza Czerwonego po świat — odkryj starannie wybrane destynacje z Sun Sea Tour",
+    "whyChoose": "Dlaczego my",
+    "whyTitle": "Dlaczego Sun Sea Tour?",
+    "whySubtitle": "Bo każda podróż powinna być wyjątkowa, bezpieczna i niezapomniana",
     "why": [
       {
-        "title": "Experiență de Încredere",
-        "desc": "Ani de experiență în turism religios, intern și internațional."
+        "title": "🌟 Dziesięciolecia doświadczenia",
+        "desc": "Zaufali nam tysiące podróżników — od wypraw kulturowych po luksusowe wyjazdy."
       },
       {
-        "title": "Siguranță & Confort",
-        "desc": "Standardele de siguranță de top și confort excepțional la fiecare călătorie."
+        "title": "🛡️ Bezpieczeństwo i komfort",
+        "desc": "Certyfikowani przewodnicy, sprawna logistyka i najwyższy standard komfortu."
       },
       {
-        "title": "Servicii Personalizate",
-        "desc": "Pachete personalizabile și suport dedicat pentru fiecare călător."
+        "title": "✨ Dopasowane doświadczenia",
+        "desc": "Tworzymy wyjątkowe plany dostosowane do twojego stylu, preferencji i tempa."
       },
       {
-        "title": "Rețea Globală",
-        "desc": "Parteneriate solide și resurse globale pentru o călătorie fără probleme."
+        "title": "🌐 Globalne kontakty",
+        "desc": "Ekskluzywne partnerstwa z hotelami, liniami lotniczymi i lokalnymi przewodnikami na całym świecie."
       }
     ],
-    "bookingTitle": "Cum rezervi",
-    "bookingSubtitle": "Începe-ți călătoria în pași simpli",
+    "howBooking": "Jak to działa",
+    "bookingTitle": "Twoja podróż zaczyna się tutaj",
+    "bookingSubtitle": "Rezerwacja z Sun Sea Tour jest prosta, szybka i bezstresowa",
     "steps": [
       {
-        "title": "Alege un Serviciu",
-        "desc": "Alege din pachetele turistice, Hajj sau Umrah."
+        "title": "🌍 Odkrywaj i wybieraj",
+        "desc": "Przeglądaj nasze wycieczki i wybierz tę, która najbardziej cię ekscytuje."
       },
       {
-        "title": "Contactează-ne",
-        "desc": "Sună-ne, trimite-ne un e-mail sau folosește website-ul."
+        "title": "📞 Skontaktuj się z nami",
+        "desc": "Telefon, WhatsApp lub e-mail — jesteśmy dostępni 24/7."
       },
       {
-        "title": "Planifică & Personalizează",
-        "desc": "Îți proiectăm și confirmăm detaliile călătoriei pentru liniștea ta."
+        "title": "📝 Dostosuj i potwierdź",
+        "desc": "Dopasuj szczegóły z naszymi ekspertami i potwierdź plan podróży."
       },
       {
-        "title": "Călătorește cu Încredere",
-        "desc": "Bucură-te de o călătorie lină și de neuitat cu Fares Friends Tours!"
+        "title": "✈️ Podróżuj i ciesz się",
+        "desc": "Spakuj walizki i przygotuj się na niezapomniane przeżycia z Sun Sea Tour!"
       }
     ],
+    "InternalProgramsTitles": {
+      "highlights": "Najważniejsze atrakcje",
+      "moreItems": "Więcej opcji",
+      "contactNow": "Skontaktuj się teraz",
+      "details": "Szczegóły",
+      "pricingInfo": "Informacje o cenach",
+      "adults": "Dorośli",
+      "perPerson": "Za osobę",
+      "children": "Dzieci (6–11 lat)",
+      "infants": "Niemowlęta (0–5 lat)",
+      "free": "ZA DARMO",
+      "noCharge": "Bez opłat",
+      "hotelPickup": "Odbiór z hotelu",
+      "hotelReturn": "Powrót do hotelu",
+      "included": "Co zawiera oferta",
+      "heroBadge": "Doświadczenie Premium",
+      "metaAvailability": "Dostępność",
+      "metaDuration": "Czas trwania",
+      "metaPrice": "Od",
+      "quickInfo": {
+        "location": "Lokalizacja",
+        "groupSize": "Wielkość grupy",
+        "safety": "Bezpieczeństwo",
+        "languages": "Języki",
+        "locationValue": "Morze Czerwone, Egipt",
+        "groupSizeValue": "Małe grupy",
+        "safetyValue": "Certyfikowani przewodnicy",
+        "languagesValue": "Wiele języków"
+      },
+      "pricing": {
+        "choose": "Wybierz idealną opcję dla swojej rodziny",
+        "adultFeatures": ["Pełne doświadczenie", "Wszystko w cenie", "Profesjonalny przewodnik"],
+        "childBadge": "50% taniej",
+        "childDescription": "50% zniżki",
+        "childFeatures": ["To samo doświadczenie", "Przyjazne dzieciom", "Sprzęt bezpieczeństwa"],
+        "infantBadge": "Za darmo",
+        "infantDescription": "Bez opłat",
+        "infantFeatures": ["Bez opłat", "Bezpieczne otoczenie", "Przyjazne rodzinie"],
+        "adultBadge": "Najpopularniejsze"
+      },
+      "notes": {
+        "title": "Ważne informacje"
+      },
+      "schedule": {
+        "title": "Plan i godziny",
+        "subtitle": "Zaplanuj z nami swój idealny dzień",
+        "pickupLabel": "Odbierzemy cię z hotelu",
+        "returnLabel": "Powrót do hotelu z pięknymi wspomnieniami"
+      },
+      "includedSection": {
+        "subtitle": "Wszystko, czego potrzebujesz do wspaniałej przygody"
+      },
+      "cta": {
+        "title": "Gotowy na przygodę?",
+        "subtitle": "Zarezerwuj teraz i zapewnij sobie miejsce",
+        "saveBtn": "Zapisz na później"
+      }
+    },
     "programsList": [
       {
         "title": "Orange Island",
@@ -474,87 +548,130 @@
         ],
         "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
       }      
-    ],
-    "InternalProgramsTitles": {
-      "highlights": "Bari buti",
-      "moreItems": "aver butya",
-      "contactNow": "Dik te kontaktesh akana",
-      "details": "Podrobnosti",
-      "pricingInfo": "Informacia pala price",
-      "adults": "Manusha baro",
-      "perPerson": "Per jekh manuš",
-      "children": "Čhavore (6-11 bersh)",
-      "infants": "Nevi čhavore (0–5 bersh)",
-      "free": "Mukav te beshi",
-      "noCharge": "Nai pago",
-      "hotelPickup": "Uvel ando hotel",
-      "hotelReturn": "Avaripe ando hotel",
-      "included": "So si andral"
-    }
+    ]
   },
   "contact": {
   "hero": {
-    "title": "Ia legătura cu noi",
-    "subtitle": "Suntem aici să te ajutăm să planifici aventura perfectă"
+    "getInTouch": "Skontaktuj się z nami",
+    "title": "Połączmy się",
+    "subtitle": "Twoja podróż zaczyna się od prostego 'cześć' — jesteśmy tutaj, aby uczynić ją niezapomnianą",
+    "btn1": "Czat na WhatsApp",
+    "btn2": "Zadzwoń teraz"
+  },
+  "quick": {
+    "title": "Wiele sposobów kontaktu",
+    "subtitle": "Wybierz swoją ulubioną metodę komunikacji",
+    "phone": {
+      "badge": "Dostępne 24/7",
+      "action1": "Zadzwoń teraz",
+      "action2": "WhatsApp"
+    },
+    "email": {
+      "badge": "Szybka odpowiedź",
+      "action1": "Wyślij e-mail"
+    },
+    "office": {
+      "badge": "Odwiedź nas",
+      "action1": "Zobacz na mapie"
+    }
   },
   "info": {
     "phone": {
-      "title": "Telefon",
-      "label": "Disponibil 24/7"
+      "title": "Zadzwoń do nas",
+      "label": "Jesteśmy dostępni 24/7 — bo przygody nie czekają"
     },
     "email": {
-      "title": "Email",
-      "label": "Răspuns în 2 ore"
+      "title": "Napisz do nas",
+      "label": "Szybkie odpowiedzi, zazwyczaj w ciągu 2 godzin"
     },
     "office": {
-      "title": "Birou",
-      "value": "151, Marina Street, Hurghada, Egipt",
-      "label": "Vizitează-ne oricând"
+      "title": "Odwiedź nasze biuro",
+      "value": "Hurghada, Egipt",
+      "label": "Wpadnij w każdej chwili — nasze drzwi są zawsze otwarte"
     }
   },
   "map": {
-    "title": "Găsește biroul nostru"
+    "title": "Łatwo nas znajdziesz",
+    "subtitle": "Nasze biuro znajduje się tam, gdzie morze spotyka słońce",
+    "overlayTitle": "Biuro Sun Sea Tour",
+    "overlayBtn": "Wskazówki dojazdu"
+  },
+  "hours": {
+    "title": "Godziny otwarcia",
+    "days": {
+      "monFri": "Poniedziałek - Piątek",
+      "sat": "Sobota",
+      "sun": "Niedziela",
+      "emergency": "Wsparcie awaryjne"
+    },
+    "times": {
+      "monFri": "09:00 - 18:00",
+      "sat": "09:00 - 16:00",
+      "sun": "10:00 - 15:00",
+      "emergency": "Dostępne 24/7"
+    }
+  },
+  "why": {
+    "title": "Dlaczego my",
+    "features": [
+      "Profesjonalny i doświadczony zespół",
+      "Obsługa klienta 24/7",
+      "Gwarancja najlepszej ceny",
+      "Bezpieczne i pewne wycieczki",
+      "Wsparcie w wielu językach"
+    ]
   },
   "faq": {
-    "title": "Întrebări frecvente",
-    "subtitle": "Răspunsuri rapide la întrebări comune",
+    "title": "Masz pytania?",
+    "subtitle": "Oto kilka szybkich odpowiedzi zanim spakujesz walizki",
     "items": [
       {
-        "question": "Cum rezerv un tur?",
-        "answer": "Poți rezerva un tur prin site-ul nostru, telefonic sau trimițând un email. Te vom ajuta să alegi turul perfect pentru tine."
+        "question": "Jak mogę zarezerwować wymarzoną podróż?",
+        "answer": "Rezerwacja jest prosta! Skorzystaj z naszej strony, zadzwoń do nas albo napisz przez WhatsApp lub e-mail — poprowadzimy Cię krok po kroku."
       },
       {
-        "question": "Ce este inclus în prețul turului?",
-        "answer": "Prețul turului include transport, cazare, mese conform specificațiilor, ghizi profesioniști și toate activitățile menționate în descriere."
+        "question": "Co jest wliczone w cenę?",
+        "answer": "Nasze wycieczki są bezstresowe: transport, zakwaterowanie, posiłki (zgodnie z opisem), przewodnicy i atrakcje — wszystko w cenie. Bez ukrytych kosztów."
       },
       {
-        "question": "Pot personaliza un tur?",
-        "answer": "Absolut! Suntem specializați în tururi personalizate, adaptate preferințelor tale, dimensiunii grupului și datelor de călătorie. Contactează-ne pentru detalii."
+        "question": "Czy mogę zaprojektować własną wycieczkę?",
+        "answer": "Oczywiście! Niezależnie, czy chcesz romantyczny wypad, rodzinne wakacje czy pełną przygód podróż — dopasujemy każdy szczegół."
       },
       {
-        "question": "Care este politica de anulare?",
-        "answer": "Oferim politici flexibile de anulare. Majoritatea tururilor pot fi anulate cu până la 7 zile înainte de plecare pentru o rambursare completă. Contactează-ne pentru detalii specifice."
+        "question": "Co jeśli muszę odwołać?",
+        "answer": "Zdarza się. Nasze zasady anulowania są elastyczne. Możesz odwołać do 7 dni przed wyjazdem i otrzymać pełny zwrot."
       }
     ]
+  },
+  "cta": {
+    "title": "Gotowy na przygodę?",
+    "subtitle": "Skontaktuj się z nami już dziś, a pomożemy Ci zaplanować idealną podróż nad Morze Czerwone",
+    "btn1": "Rozpocznij czat teraz",
+    "btn2": "Zadzwoń bezpośrednio"
   }
   },
   "footer": {
-    "quick_links": "Linkuri rapide",
-    "home": "Acasă",
-    "about": "Despre noi",
-    "services": "Excursiile noastre",
-    "contact": "Contact",
-    "contact_title": "Informații de contact",
-    "follow_us": "Urmărește-ne",
-    "about_company": "Fares Friends Tours este o companie de turism licențiată în Egipt de către Ministerul Turismului, clasa A, licența nr. 1696, înființată pe 20 septembrie 2008. Compania are o vastă experiență în organizarea de excursii interne și internaționale, în special programe de Hajj și Umrah, oferind servicii complete: vize, zboruri, cazare și supraveghere de către profesioniști.",
-    "address": "151, Marina Street, Hurghada, Egipt",
-    "rights": "Fares Friends Tours. Toate drepturile rezervate."
+    "quick_links": "Odkryj",
+    "home": "Strona główna",
+    "about": "O nas",
+    "services": "Wycieczki",
+    "contact": "Kontakt",
+    "contact_title": "Skontaktuj się",
+    "premiumTours": "Wycieczki premium",
+    "happyGuests": "Zadowoleni goście",
+    "destinations": "Kierunki",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "addressText": "Adres",
+    "follow_us": "Śledź nas",
+    "about_company": "Sun Sea Tour to Twój zaufany partner w niezapomnianych podróżach. Od Morza Czerwonego po cały świat — tworzymy płynne doświadczenia podróżnicze z pasją i profesjonalizmem.",
+    "address": "Hurghada, Egipt",
+    "rights": "Sun Sea Tour. Wszystkie prawa zastrzeżone."
   },
   "notFound": {
-    "emoji": "🌍",
     "title": "404",
-    "message": "Oops! Pagina nu a fost găsită",
-    "description": "Pagina pe care o cauți nu există sau a fost mutată.<br>Hai să explorăm destinații minunate!",
-    "button": "Înapoi la acasă"
+    "message": "Zgubiłeś się w podróży?",
+    "description": "Wygląda na to, że ta strona zboczyła z trasy. Nie martw się — przygody czekają!<br>Pomożemy Ci wrócić na właściwą drogę.",
+    "button": "Wróć do strony głównej"
   }
 }

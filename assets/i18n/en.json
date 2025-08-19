@@ -8,7 +8,7 @@
     "services": "Excursions",
     "contact": "Contact",
     "brand": "Sun Sea Tour"
-  },
+  }, 
   "home": {
   "hero": {
     "title": "Discover the World with Sun Sea Tour",
@@ -17,7 +17,7 @@
     "book": "Plan Your Trip"
   },
   "destinations": {
-    "sectionTitle": "Top Destinations Await",
+    "sectionTitle": "Contact us and inquire for free about everything",
     "sectionSubtitle": "From dreamy beaches to cultural treasures — your adventure begins here",
     "viewDetails": "Discover More"
   },
@@ -153,6 +153,71 @@
         "desc": "Pack your bags and get ready for an unforgettable experience with Sun Sea Tour!"
       }
     ],
+    "InternalProgramsTitles": {
+        "highlights": "Highlights",
+        "moreItems": "More items",
+        "contactNow": "Contact Now",
+        "details": "Details",
+        "pricingInfo": "Pricing Information",
+        "adults": "Adults",
+        "perPerson": "Per person",
+        "children": "Children (6-11 years)",
+        "infants": "Infants (0-5 years)",
+        "free": "FREE",
+        "noCharge": "No charge",
+        "hotelPickup": "Hotel Pickup",
+        "hotelReturn": "Hotel Return",
+        "included": "What's Included",
+
+        "heroBadge": "Premium Experience",
+        "metaAvailability": "Availability",
+        "metaDuration": "Duration",
+        "metaPrice": "From",
+
+        "quickInfo": {
+          "location": "Location",
+          "groupSize": "Group Size",
+          "safety": "Safety",
+          "languages": "Languages",
+          "locationValue": "Red Sea, Egypt",
+          "groupSizeValue": "Small Groups",
+          "safetyValue": "Certified Guides",
+          "languagesValue": "Multi-Language"
+        },
+
+        "pricing": {
+          "choose": "Choose the perfect option for your family",
+          "adultFeatures": ["Full experience", "All equipment included", "Professional guide"],
+          "childBadge": "50% Off",
+          "childDescription": "50% discount",
+          "childFeatures": ["Same experience", "Child-friendly", "Safety equipment"],
+          "infantBadge": "Free",
+          "infantDescription": "No charge",
+          "infantFeatures": ["No charge", "Safe environment", "Family welcome"],
+          "adultBadge": "Most Popular"
+        },
+
+        "notes": {
+          "title": "Important Information"
+        },
+
+        "schedule": {
+          "title": "Schedule & Timing",
+          "subtitle": "Plan your perfect day with us",
+          "pickupLabel": "We'll pick you up from your hotel",
+          "returnLabel": "Back to your hotel with memories"
+        },
+
+        "includedSection": {
+          "subtitle": "Everything you need for an amazing experience"
+        },
+
+        "cta": {
+          "title": "Ready for Your Adventure?",
+          "subtitle": "Book now and secure your spot for this amazing experience",
+          "saveBtn": "Save for Later"
+        }
+    },
     "programsList": [
     {
         "title": "Orange Island",
@@ -490,72 +555,7 @@
       ],
       "image": "assets/images/programs images/Hurghada Grand Aquarium Visit.jpg"
     }
-    ],
-    "InternalProgramsTitles": {
-        "highlights": "Highlights",
-        "moreItems": "More items",
-        "contactNow": "Contact Now",
-        "details": "Details",
-        "pricingInfo": "Pricing Information",
-        "adults": "Adults",
-        "perPerson": "Per person",
-        "children": "Children (6-11 years)",
-        "infants": "Infants (0-5 years)",
-        "free": "FREE",
-        "noCharge": "No charge",
-        "hotelPickup": "Hotel Pickup",
-        "hotelReturn": "Hotel Return",
-        "included": "What's Included",
-
-        "heroBadge": "Premium Experience",
-        "metaAvailability": "Availability",
-        "metaDuration": "Duration",
-        "metaPrice": "From",
-
-        "quickInfo": {
-          "location": "Location",
-          "groupSize": "Group Size",
-          "safety": "Safety",
-          "languages": "Languages",
-          "locationValue": "Red Sea, Egypt",
-          "groupSizeValue": "Small Groups",
-          "safetyValue": "Certified Guides",
-          "languagesValue": "Multi-Language"
-        },
-
-        "pricing": {
-          "choose": "Choose the perfect option for your family",
-          "adultFeatures": ["Full experience", "All equipment included", "Professional guide"],
-          "childBadge": "50% Off",
-          "childDescription": "50% discount",
-          "childFeatures": ["Same experience", "Child-friendly", "Safety equipment"],
-          "infantBadge": "Free",
-          "infantDescription": "No charge",
-          "infantFeatures": ["No charge", "Safe environment", "Family welcome"],
-          "adultBadge": "Most Popular"
-        },
-
-        "notes": {
-          "title": "Important Information"
-        },
-
-        "schedule": {
-          "title": "Schedule & Timing",
-          "subtitle": "Plan your perfect day with us",
-          "pickupLabel": "We'll pick you up from your hotel",
-          "returnLabel": "Back to your hotel with memories"
-        },
-
-        "includedSection": {
-          "subtitle": "Everything you need for an amazing experience"
-        },
-
-        "cta": {
-          "title": "Ready for Your Adventure?",
-          "subtitle": "Book now and secure your spot for this amazing experience",
-          "saveBtn": "Save for Later"
-        }
-    }
+    ]
   },
   "contact": {
     "hero": {
@@ -676,7 +676,6 @@
     "rights": "Sun Sea Tour. All Rights Reserved."
   },
   "notFound": {
-    "emoji": "🧭",
     "title": "404",
     "message": "Lost in the Journey?",
     "description": "Looks like this page took a detour. Don’t worry — adventures await!<br>Let’s guide you back to the right path.",
